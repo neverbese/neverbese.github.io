@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: neverbese/neverbese.github.io
 github_url: https://github.com/neverbese
-url: http://www.neverbese.github.io
-enforce_ssl: neverbese.github.io
+url: http://www.neverbese.com
+enforce_ssl: neverbese.com
 
 ## Gem
 plugins:
